@@ -18,6 +18,7 @@ task clean(type: Delete) {
 plugins {
     id 'org.jetbrains.kotlin.jvm' version '1.5.30'
 }
+
 repositories {
     mavenCentral()
 }
